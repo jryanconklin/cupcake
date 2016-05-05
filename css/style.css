@@ -20,3 +20,24 @@
   font-weight: bold;
   font-style: italic;
 }
+
+.sidebar {
+  width: 30%;
+  background-color: pink;
+  float: right;
+}
+
+.column {
+  width: 300px;
+  padding: 10px;
+  float: left;
+}
+
+.secondimage {
+  float: right;
+  padding: 1%;
+}
+
+.othertext {
+  font-size: 30px;
+}
