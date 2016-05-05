@@ -9,3 +9,14 @@
   text-shadow: 60px;
   font-size: 30px;
 }
+
+.intro {
+  text-align: justify;
+  width: 400px;
+  font-weight: bold;
+}
+
+.emphasis {
+  font-weight: bold;
+  font-style: italic;
+}
